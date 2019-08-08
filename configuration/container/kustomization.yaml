@@ -1,0 +1,4 @@
+configMapGenerator:
+- name: game-config-5
+  files:
+  - some-other-key=configmap/ui.properties
