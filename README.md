@@ -23,8 +23,12 @@ Most task will be executed in the command line. Follow the instructions included
     * [Configure Containers using a ConfigMap](configuration/config-containers.md)
     * [Configure Redis using a ConfigMap](configuration/config-redis.md)
 2. Stateless Applications
-* [Exposing an External IP Address to Access an Application in a Cluster](stateless/expose-address.md)
+    * [Exposing an External IP Address to Access an Application in a Cluster](stateless/expose-address.md)
+    * [Example: Deploying PHP Guestbook application with Redis](stateless/guestbook.md)
+    * TODO - Example: Add logging and metrics to the PHP / Redis Guestbook
 3. Stateful Applications
+    * TODO - StatefulSet Basics
+    * TODO - Example: Deploying WordPress and MySQL with Persistent Volumes
 4. CI/CD Pipeline
 5. Clusters
 6. Services
