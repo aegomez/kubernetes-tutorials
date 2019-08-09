@@ -28,10 +28,14 @@ Most task will be executed in the command line. Follow the instructions included
     * TODO - Example: Add logging and metrics to the PHP / Redis Guestbook
 3. Stateful Applications
     * TODO - StatefulSet Basics
-    * TODO - Example: Deploying WordPress and MySQL with Persistent Volumes
+    * [Example: Deploying WordPress and MySQL with Persistent Volumes](stateful/mysql-wordpress.md)
+    * TODO - Example: Deploying Cassandra with Stateful Sets
 4. CI/CD Pipeline
+    * TODO
 5. Clusters
+    * TODO
 6. Services
+    * TODO
 
 ### Not included
 
