@@ -30,12 +30,12 @@ Most task will be executed in the command line. Follow the instructions included
     * TODO - StatefulSet Basics
     * [Example: Deploying WordPress and MySQL with Persistent Volumes](stateful/mysql-wordpress.md)
     * TODO - Example: Deploying Cassandra with Stateful Sets
-4. CI/CD Pipeline
-    * TODO
+4. CI/CD
+    * Set Up a CI/CD Pipeline with Kubernetes ([different repo](https://github.com/aegomez/kubernetes-ci-cd))
 5. Clusters
-    * TODO
+    * TODO -AppArmor
 6. Services
-    * TODO
+    * TODO - Using Source IP
 
 ### Not included
 
